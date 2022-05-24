@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+}
+
+i {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #ddd;
+}
+
+.container-fluid .card {
+    max-width: 768px;
+    margin: 3rem auto 0;
+}
